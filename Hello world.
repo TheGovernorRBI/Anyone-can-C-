@@ -1,0 +1,7 @@
+#include<stdio.h>
+void main()
+{
+printf("HELLO WORLD"); 
+printf("\n");
+printf("perhaps,THE SUN WILL SWALLOW THE ONLY EARTH WE WILLL EVER HAVE");
+}
